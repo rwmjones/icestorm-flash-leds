@@ -1,0 +1,9 @@
+"Hello world" which gets the LEDs to flash on the
+iCE40-HX8K FPGA and Project IceStorm.
+
+Use ‘make’ to build.
+
+Use ‘[sudo] make prog’ to program the FPGA.
+
+See also:
+https://rwmj.wordpress.com/2018/03/17/playing-with-picorv32-on-the-ice40-hx8k-fpga-breakout-board-part-1/
